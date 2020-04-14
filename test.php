@@ -1,4 +1,5 @@
 <?php
+echo "1111111111111";
 //練習１ 
 echo "hello world!";
 echo "\n";
